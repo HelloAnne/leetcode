@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
  */
 public class MoveZeroes {
 
-    public void solution(int[] nums) {
+    /*public void solution(int[] nums) {
         int i=0;
         int j=0;
         for (; j<nums.length; j++) {
@@ -34,5 +34,5 @@ public class MoveZeroes {
 
             System.out.print(out);
         }
-    }
+    }*/
 }

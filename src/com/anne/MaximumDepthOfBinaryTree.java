@@ -15,7 +15,7 @@ import java.util.Stack;
  * Description:
  */
 public class MaximumDepthOfBinaryTree {
-    public int maxDepth(TreeNode root) {
+    /*public int maxDepth(TreeNode root) {
         if (root == null) {
             return 0;
         }
@@ -51,7 +51,7 @@ public class MaximumDepthOfBinaryTree {
 
             System.out.print(out);
         }
-    }
+    }*/
 
 
 

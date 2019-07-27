@@ -12,7 +12,7 @@ import java.util.Queue;
  * Description:
  */
 public class DeleteNodeInBst {
-    public TreeNode deleteNode(TreeNode root, int key) {
+    /*public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) {
             return null;
         }
@@ -86,5 +86,5 @@ public class DeleteNodeInBst {
 
             System.out.print(out);
         }
-    }
+    }*/
 }
